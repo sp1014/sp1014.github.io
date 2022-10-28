@@ -63,7 +63,7 @@ cuarentaycinco=new preg("Cuales de los siguientes frameworks usan estructuras po
 cuarentayseis=new preg("cuales son las ventajas de utilizar web componets:","Flexibilidad,Personalizacion,Innovacion","Personalizacion,Eficacia,estetica","Innovacion,estetica,Adaptabilidad","Ninguna de las anteriores");
 cuarentaysiete=new preg("Como puedo se unen los componentes para mostrarlos en una vista?","por medio de un componente padre","todos se uninen en la vista","no pueden unirse","se unen solos ");
 cuarentayocho=new preg("al momento de usar un framewoks como vue cual es la diferencia entre vista y componente?","en el componente es donde va toda la logica visual y la vista solo es la presentacion","no hay ninguna diferencia","en la vista es donde va toda la logica visual y el componente solo es para la presentacion","no se pueden utilizar vista y componentes al tiempo ");
-cuarentaynueve=new preg("pregunta","respuestacorresta","bad","bad1","bad2");
+cuarentaynueve=new preg(" ventajas de utilizar Web Components","Flexibilidad,Personalización,Innovación","Innovacion,Nuevo,Web","Flexibilidad,Personalización,Nuevo","Facil,personalizacion");
 cincueta=new preg("Cual de los siguientes frameworks es el unico que maneja vista y componente","Vue","Angular","React","NextJs");
 
 
